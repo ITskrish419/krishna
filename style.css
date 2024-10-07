@@ -1,0 +1,27 @@
+div{
+    border: 10px;
+    width: 200px;
+    color: whitesmoke;
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 50px;
+    outline: 10px solid black;
+    margin-left:700px;
+    text-decoration: underline;
+    padding: 10px;
+    outline-offset: 5px;
+}
+:hover div{
+    color: violet;
+    background-color: brown;
+    outline-color:darkorchid;
+    font-size: 60px;
+}
+div:active{
+    color: aqua;
+}
+
+
+
+
